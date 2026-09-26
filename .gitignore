@@ -1,0 +1,14 @@
+# Build outputs (nvcc/MSVC on Windows)
+*.exe
+*.exp
+*.lib
+*.obj
+*.o
+*.pdb
+*.ilk
+build/
+
+# Editor / OS
+.vscode/
+.DS_Store
+Thumbs.db
