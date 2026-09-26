@@ -1,5 +1,7 @@
 #include <iostream>
 #include <chrono>
+#include <cmath>
+#include <cstdio>
 #include <cuda_runtime.h>
 
 // CUDA kernel for matrix multiplication

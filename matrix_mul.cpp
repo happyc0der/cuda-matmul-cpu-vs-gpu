@@ -1,5 +1,6 @@
 #include <iostream>
 #include <chrono>
+#include <cstdio>
 
 // Function to perform matrix multiplication
 void matrixMultiplication(float *A, float *B, float *C, int width)
