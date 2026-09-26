@@ -167,4 +167,4 @@ your own runs rather than trusting made-up numbers:
 
 ## License
 
-No license has been chosen yet, so all rights are reserved by default.
+Released into the public domain under [The Unlicense](LICENSE) — use it for anything, no attribution required.
